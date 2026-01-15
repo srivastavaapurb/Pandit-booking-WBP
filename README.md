@@ -19,3 +19,5 @@ Supports **Text & Voice**, auto **Puja Samagri** and **Puja Instructions** secti
 
 ### How it ranks
 Specialization → Proximity (tiers & distance) → Time-window match → Weekday availability → Budget gap → Ratings → Experience → Fee (asc).
+
+The link is publicly deployed at https://huggingface.co/spaces/AS2004/puja_book_new/tree/main

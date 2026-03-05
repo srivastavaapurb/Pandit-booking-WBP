@@ -1,6 +1,5 @@
 ---
 title: Puja Booking Assistant (WB, 100 Pandits)
-emoji: 🕉️
 colorFrom: yellow
 colorTo: red
 sdk: gradio
